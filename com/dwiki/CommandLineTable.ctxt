@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CommandLineTable
+comment1.params=
+comment1.target=CommandLineTable()
+comment2.params=rightAlign
+comment2.target=void\ setRightAlign(boolean)
+comment3.params=showVerticalLines
+comment3.target=void\ setShowVerticalLines(boolean)
+comment4.params=headers
+comment4.target=void\ setHeaders(java.lang.String[])
+comment5.params=cells
+comment5.target=void\ addRow(java.lang.String[])
+comment6.params=
+comment6.target=void\ print()
+comment7.params=columnWidths
+comment7.target=void\ printLine(int[])
+comment8.params=cells\ maxWidths
+comment8.target=void\ printRow(java.lang.String[],\ int[])
+numComments=9
